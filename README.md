@@ -1,5 +1,4 @@
 # SMILES2Structure
-Generate 2D chemical structure from SMILES using python.
 
 
 SMILES2Structure adalah aplikasi untuk mengubah struktur kimia 1D (SMILES) menjadi struktur 2D dan menyimpannya dalam bentuk gambar berformat .SVG. Aplikasi ini dibuat dengan pyqt5 menggunakan python.
